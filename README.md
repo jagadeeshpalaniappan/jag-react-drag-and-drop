@@ -1,2 +1,3 @@
-# jag-react-drag-and-drop
-Created with CodeSandbox
+# React.js - Drag & Drop
+
+![Demo](http://g.recordit.co/76ielwEgsT.gif)
