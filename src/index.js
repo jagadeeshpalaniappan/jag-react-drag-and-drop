@@ -29,4 +29,3 @@ ReactDOM.render(
   </div>,
   rootElement
 );
-// ReactDOM.render(<DnDBox />, rootElement);
